@@ -5,14 +5,15 @@ Run
 ```
 npm install
 ```
-to get started, and then run ```gulp``` to launch the environment in the browser.
+to get started, and then run ```gulp``` to launch the development environment in the browser.
 
 ### Features
-* Faster Development start time
+* Fast Development start time
 * Live Reloading
 * Module Bundling w/ Tree Shaking
 * Image / SVG Optimization
 * Code Optimization / Minification
 * Source Maps Support
 * Numerous CSS enhancements using POSTCSS
-* Browser Usage Support
+* Browser Support logging for CSS
+* Support for logging file size 
